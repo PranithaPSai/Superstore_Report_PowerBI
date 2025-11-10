@@ -28,4 +28,4 @@ The Superstore Power BI Dashboard delivers a full analytical view of business pe
 10) Visual Design: Focused on clarity, interactivity, and easy navigation for better storytelling.
 
 ## Dashboard Screenshot
-https://github.com/PranithaPSai/Superstore_Report_PowerBI/blob/main/Snapshot%20of%20Dashboard.png
+(https://github.com/PranithaPSai/Superstore_Report_PowerBI/blob/main/Snapshot%20of%20Dashboard.png)
